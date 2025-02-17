@@ -46,7 +46,7 @@ This repository contains a step-by-step implementation of a **Generative Adversa
 ## **How to Use**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/chaaitanyaa/gan-pytorch.git
+   git clone https://github.com/chaaitanyaa/Generative_Adversarial_Network.git
    cd gan-pytorch
    ```
 
