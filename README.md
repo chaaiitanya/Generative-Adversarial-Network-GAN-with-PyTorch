@@ -1,5 +1,3 @@
-# Generative-Adversarial-Network-GAN-with-PyTorch
-
 # Generative Adversarial Network (GAN) with PyTorch
 
 This repository contains a step-by-step implementation of a **Generative Adversarial Network (GAN)** using PyTorch. The project focuses on generating realistic handwritten digits inspired by the MNIST dataset. It includes detailed code for data preprocessing, model creation, training, and visualization of results.
